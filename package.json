@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "name": "tsparticles-vue3-stars",
+  "name": "v3",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
