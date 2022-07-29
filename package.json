@@ -1,6 +1,7 @@
 {
   "type": "module",
   "name": "tsparticles-vue3-stars",
+  "homepage": "https://sandhya-veludandi.github.io/tsparticles-vue3-stars/",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
