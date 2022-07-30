@@ -1,5 +1,4 @@
 module.exports = {
-    publicPath: process.env.NODE_ENV === 'production'
-    ? '/tsparticles-vue3-stars/'
-    : '/'
-};
+    publicPath: process.env.NODE_ENV === "production" ? "/tsparticles-vue3-stars/" : "/",
+  };
+  
