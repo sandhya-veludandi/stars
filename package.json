@@ -8,8 +8,7 @@
     "build": "run-p type-check build-only",
     "preview": "vite preview --port 4173",
     "build-only": "vite build",
-    "type-check": "vue-tsc --noEmit",
-    "deploy": "node ./node_modules/vue-gh-pages/index.js"
+    "type-check": "vue-tsc --noEmit"
   },
   "dependencies": {
     "execa": "^6.1.0",
